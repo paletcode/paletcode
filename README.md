@@ -14,8 +14,5 @@ I'm a Software Developer and Technology Technician based in the Dallas area. I s
 ## ⚡ Beyond the Screen
 When I'm not writing code or managing IT infrastructure, you can find me:
 *   📸 Shooting portrait photography on weekends for my project, **Life in Cuts**.
-*   🖨️ Prototyping and experimenting with my Bambu Lab A1 3D printer.
-*   📝 Writing worldbuilding concepts and tactical sci-fi narratives.
 
 ---
-📫 **Reach out:** [Your LinkedIn/Email/Portfolio Link]
